@@ -1,0 +1,1 @@
+{"jobID":"af290a00-7b54-a80f-8527-f352c2f17f54","spec":{"type":"policy","cause":{"Message":"","User":"June TAKEUCHI \u003cjune.takeuchi@ga.interieur-plan.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
