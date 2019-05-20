@@ -21,7 +21,6 @@ spec:
       containers:
       - name: metrics-demo
         image: quay.io/repository/brice/metrics-demo:latest
-        ports:
         resources:
           requests:
             memory: "32Mi"
