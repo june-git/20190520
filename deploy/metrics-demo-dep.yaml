@@ -20,4 +20,4 @@ spec:
     spec:
       containers:
       - name: metrics-demo
-        image: quay.io/repository/brice/metrics-demo:latest
+        image: quay.io/brice/metrics-demo:v4-subscription-service
